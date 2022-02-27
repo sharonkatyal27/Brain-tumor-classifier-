@@ -3,7 +3,8 @@
 In this machine learning project, we build a classifier to detect the brain tumor (if any) from the MRI scan images. By now it is evident that this is a binary classification problem. Examples of such binary classification problems are Spam or Not spam, Credit card fraud (Fraud or Not fraud).
 
 # Brain Tumor Classification Dataset
-Please download the dataset for brain tumor classification: Brain Tumor Dataset
+Please download the dataset for brain tumor classification: Brain Tumor Dataset from kaggel 
+  https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
 
 The images are split into two folders yes and no each containing images with and without brain tumors respectively. There are a total of 253 images.
 
